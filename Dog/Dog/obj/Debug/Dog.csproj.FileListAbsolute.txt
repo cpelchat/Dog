@@ -1,0 +1,7 @@
+C:\Users\Cassidy\source\repos\Dog\Dog\obj\Debug\Dog.csprojAssemblyReference.cache
+C:\Users\Cassidy\source\repos\Dog\Dog\obj\Debug\Dog.csproj.CoreCompileInputs.cache
+C:\Users\Cassidy\source\repos\Dog\Dog\bin\Debug\Dog.exe.config
+C:\Users\Cassidy\source\repos\Dog\Dog\bin\Debug\Dog.exe
+C:\Users\Cassidy\source\repos\Dog\Dog\bin\Debug\Dog.pdb
+C:\Users\Cassidy\source\repos\Dog\Dog\obj\Debug\Dog.exe
+C:\Users\Cassidy\source\repos\Dog\Dog\obj\Debug\Dog.pdb
